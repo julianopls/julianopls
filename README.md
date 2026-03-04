@@ -13,10 +13,16 @@
 </div>
 
 ###
+<div align="center">
+<img width="600" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julianopls&theme=gotham">
+<img width="290" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=julianopls&theme=gotham">
 
-<br clear="both">
+  <br clear="both">
 
 <img src="https://raw.githubusercontent.com/julianopls/julianopls/output/snake.svg" alt="Snake animation" />
+</div>
+
+
 
 ###
 
