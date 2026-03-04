@@ -16,6 +16,7 @@
 <div align="center">
 <img width="600" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julianopls&theme=gotham">
 <img width="290" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=julianopls&theme=gotham">
+<img width="290" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=julianopls&theme=gotham">
 
   <br clear="both">
 
