@@ -72,10 +72,11 @@ status:   Always building something
 ### `> cat contribution_graph.svg`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/julianopls/julianopls/output/pacman-contribution-graph-dark.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/julianopls/julianopls/output/pacman-contribution-graph.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/julianopls/julianopls/output/pacman-contribution-graph-dark.svg">
+<img src="https://raw.githubusercontent.com/julianopls/julianopls/output/pacman-contribution-graph.svg">
 </picture>
 
+---
 ---
 
 <div align="center">
